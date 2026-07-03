@@ -1,4 +1,4 @@
-***theme.js setup:***
+###theme.js setup:
 
 *html:*
 
