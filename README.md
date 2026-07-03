@@ -1,6 +1,6 @@
 ## theme.js setup:
 
-# html:
+### html:
 
 ```bash
 <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
@@ -9,13 +9,13 @@
 <button id="themeToggle" class="icon-btn"><i class='bx bx-sun icon-sun'></i><i class='bx bx-moon icon-moon'></i></button>
 ```
 
-# cdn link:
+### cdn link:
 
 ```bash
 <script src="https://cdn.jsdelivr.net/gh/ngochoang369/RegisH@refs/heads/main/theme.js"></script>
 ```
 
-# css:
+### css:
 
 ```bash
 :root{} <== light theme
