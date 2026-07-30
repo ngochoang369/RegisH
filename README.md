@@ -12,7 +12,7 @@
 ### cdn link:
 
 ```bash
-<script src="https://cdn.jsdelivr.net/gh/ngochoang369/RegisH/theme.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ngochoang369/RegisH@v1.0.1/theme.js"></script>
 ```
 
 ### css:
