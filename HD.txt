@@ -1,0 +1,22 @@
+## THEME.JS SETUP ##
+
+=======================================================================================
+Icon:
+
+<link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+
+=======================================================================================
+Html:
+
+<button id="themeToggle" class="icon-btn"><i class='bx bx-sun icon-sun'></i><i class='bx bx-moon icon-moon'></i></button>
+
+=======================================================================================
+CDN Link:
+
+<script src="https://cdn.jsdelivr.net/gh/ngochoang369/RegisH@v1.0.1/theme.js"></script>
+
+=======================================================================================
+Css:
+
+:root{} <== light theme
+[data-theme="dark"]{} <== dark theme
